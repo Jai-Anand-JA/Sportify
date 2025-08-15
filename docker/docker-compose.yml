@@ -6,7 +6,7 @@ services:
     restart: always
     container_name: "sportify-mysql"
     environment:
-      MYSQL_ROOT_PASSWORD: 'Ktcmd7chfn*'
+      MYSQL_ROOT_PASSWORD: 'your password'
     ports:
       - "3307:3306"
     volumes:
