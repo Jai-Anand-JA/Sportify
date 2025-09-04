@@ -9,24 +9,21 @@ A full-stack sports e-commerce web application built with **Java Spring Boot** a
 - Product listing and filtering
 - Add to cart, update quantity, remove items
 - Order summary & checkout page
-- Role-based access (Admin/User)
 - RESTful API integration
-- Dockerized MySQL and Redis support
 
 ---
 
 ## Tech Stack
-**Frontend**: React, Redux, Material UI  
-**Backend**: Java 21, Spring Boot 3, Spring Security, JPA, MySQL, Redis  
-**Tools**: Docker, JWT, Axios, Styled Components
+**Frontend**: React, Material UI  
+**Backend**: Java 21, Spring Boot 3, Spring Security, JPA, MySQL
+**Tools**: JWT, Axios, Styled Components
 
 ---
 
 ## 📦 Setup Instructions
 
 ```bash
-# Start MySQL & Redis using Docker
-docker-compose up -d
+# Start MySQL
 # Run Backend
 cd backend
 mvn install
