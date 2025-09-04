@@ -15,7 +15,7 @@ A full-stack sports e-commerce web application built with **Java Spring Boot** a
 
 ## Tech Stack
 **Frontend**: React, Material UI  
-**Backend**: Java 21, Spring Boot 3, Spring Security, JPA, MySQL
+**Backend**: Java 21, Spring Boot 3, Spring Security, JPA, MySQL  
 **Tools**: JWT, Axios, Styled Components
 
 ---
